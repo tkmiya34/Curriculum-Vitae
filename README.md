@@ -6,7 +6,7 @@
 |----|----|
 |Name|宮澤 孝信|
 |Birth(Age)|1984/03/04(35)|
-|Family|既婚・子なし|
+|Family|既婚・子供なし|
 |Location|東京都 板橋区|
 |Education|日本電子専門学校コンピュータネットワーク学科|
 |Mail|tkmiya34@gmail.com|
@@ -15,12 +15,12 @@
 
 |key|value|
 |----|----|
-|Github| https://github.com/tkmiya34|
-|Qiita| https://qiita.com/tkmiya34 |
-|Twitter|(https://twitter.com/tkmiya34|
-|Facebook|[https://www.facebook.com/tkmiya34|
+|Github| [https://github.com/tkmiya34](https://github.com/tkmiya34) |
+|Qiita| [https://qiita.com/tkmiya34](https://qiita.com/tkmiya34) |
+|Twitter|[https://twitter.com/tkmiya34](https://twitter.com/tkmiya34)|
+|Facebook|[https://www.facebook.com/tkmiya34](https://www.facebook.com/tkmiya34)|
 
-### 技術ブログ
+## 技術ブログ
 
 個人ブログはないですが所属会社の開発ブログに投稿しています。
 - [普通のチームで立ち向かう \- Railsアプリでのテストコードポリシー \- \- LiBz Tech Blog](https://tech.libinc.co.jp/entry/2019/02/12/154113)
@@ -72,7 +72,6 @@
 ## 実務経歴(新しい順)
 
 ### 株式会社LiB (2015/03 ~ 現在)
-
 
 #### [LiBzCAREER](https://libinc.jp)の開発保守運用
 
